@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33994'
     url: http://www.gutenberg.org/2009/agents/33994
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29566#The-Centurion-s-Story
 gutenberg_issued: '2009-08-01'
 gutenberg_type: Text
 identifiers:
